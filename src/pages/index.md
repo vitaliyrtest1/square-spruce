@@ -5,15 +5,6 @@ sections:
     title: Achieve your Goals!
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
       - label: Try for free
         url: /pricing
         style: primary
