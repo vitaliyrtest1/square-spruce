@@ -45,7 +45,7 @@ sections:
         content: >
           ![](</images/Screenshot 2021-03-03 at 15.07.07.png>)With Your Goal,
           you can create a dashboard with data about your activities and track
-          your progress.
+          your progress.![](/images/enthusiastic-daffodil.png)
         actions:
           - label: Learn More
             url: /thank-you
