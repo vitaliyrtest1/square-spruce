@@ -5,9 +5,6 @@ sections:
     title: Achieve your Goals!
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
-        url: /pricing
-        style: primary
       - label: lorem-ipsum
         url: '#'
         style: link
@@ -17,6 +14,9 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: Try for free
+        url: /pricing
+        style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
