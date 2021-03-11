@@ -44,10 +44,8 @@ sections:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
           ![](/images/Screenshot%202021-03-11%20at%2014.57.33.png)иsWith our
-          Goal, you can create a dashboard with data about your activities and
+          Goal1, you can create a dashboard with data about your activities and
           track your progress.![](/images/enthusiastic-daffodil.png)и
-
-
 
 
           ![](asd)
