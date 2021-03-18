@@ -227,7 +227,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Startup theme
     - name: 'twitter:image'
-      value: /images/4.png
+      value: /images/robust-onion.png
       relativeUrl: true
 template: advanced
 ---
