@@ -17,7 +17,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image: images/2.png
+    image: images/pleasant-paprika.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
