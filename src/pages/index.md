@@ -16,7 +16,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image: images/pleasant-paprika.png
+    image: images/dianne-ameter.jpg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
