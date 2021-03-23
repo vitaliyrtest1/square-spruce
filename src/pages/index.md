@@ -27,7 +27,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    title: Achieve your Goals!!!! Test
   - type: grid_section
     title: Featured On
     align: center
