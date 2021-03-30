@@ -53,8 +53,8 @@ sections:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
           ![](/images/Screenshot%202021-03-11%20at%2014.57.33.png)иsWith our
-          [Goal12](http://google.com/456), you can create a dsashboard with data
-          about your activitiess and track your
+          [Goal12](http://google.com/456), you can create a dsashboard 1with
+          data about your activitiess and track your
           progress.![](/images/enthusiastic-daffodil.png)и
 
 
