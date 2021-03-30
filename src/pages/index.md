@@ -29,7 +29,7 @@ sections:
     background_image_opacity: 60
     title: Hello there!
     content: |
-      asd1234
+      12asd1234
   - type: grid_section
     title: Featured On
     align: center
