@@ -28,6 +28,8 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     title: Hello there!
+    content: |
+      asd
   - type: grid_section
     title: Featured On
     align: center
